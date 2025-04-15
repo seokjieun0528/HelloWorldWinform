@@ -16,5 +16,15 @@ namespace HelloWorldWinform
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPush_Click(object sender, EventArgs e)
+        {
+            lblTitle.Text = "버튼클릭";
+        }
     }
 }
