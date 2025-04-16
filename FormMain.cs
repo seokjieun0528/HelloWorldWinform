@@ -43,7 +43,7 @@ namespace HelloWorldWinform
             Form formAbout2 = new FormAbout();
 
             // 모달(Modal) 창
-            formAbout1.Text = "모달창";
+            formAbout1.Text = "모달창";    
             formAbout1.ShowDialog();
 
             // 모달리스(Modeless) 창
