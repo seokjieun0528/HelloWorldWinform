@@ -54,7 +54,7 @@
             this.label1.Size = new System.Drawing.Size(267, 89);
             this.label1.TabIndex = 1;
             this.label1.Text = "이 프로그램은....\r\n뉴미디어콘텐츠프로그래밍\r\n수업에서 C# 윈도우폼 사용법을\r\n익히치 위해 만든\r\n예제 프로그램 입니다.";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+    
             // 
             // linkLabel1
             // 
